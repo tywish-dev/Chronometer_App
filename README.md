@@ -1,6 +1,6 @@
 # chronometer_app
 
-A new Flutter project.
+Chronometer app.
 
 ## Getting Started
 
